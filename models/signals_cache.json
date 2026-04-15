@@ -1,0 +1,110 @@
+{
+  "signals": [
+    {
+      "ticker": "ACS.MC",
+      "date": "2026-04-14",
+      "signal": "VENDE",
+      "prob_up": 0.2919,
+      "confidence": 0.416
+    },
+    {
+      "ticker": "AMS.MC",
+      "date": "2026-04-14",
+      "signal": "VENDE",
+      "prob_up": 0.3828,
+      "confidence": 0.234
+    },
+    {
+      "ticker": "BBVA.MC",
+      "date": "2026-04-14",
+      "signal": "MANTIENE",
+      "prob_up": 0.4154,
+      "confidence": 0.169
+    },
+    {
+      "ticker": "CABK.MC",
+      "date": "2026-04-14",
+      "signal": "VENDE",
+      "prob_up": 0.3435,
+      "confidence": 0.313
+    },
+    {
+      "ticker": "CLNX.MC",
+      "date": "2026-04-14",
+      "signal": "MANTIENE",
+      "prob_up": 0.5098,
+      "confidence": 0.02
+    },
+    {
+      "ticker": "ENG.MC",
+      "date": "2026-04-14",
+      "signal": "MANTIENE",
+      "prob_up": 0.5483,
+      "confidence": 0.097
+    },
+    {
+      "ticker": "FER.MC",
+      "date": "2026-04-14",
+      "signal": "MANTIENE",
+      "prob_up": 0.5093,
+      "confidence": 0.019
+    },
+    {
+      "ticker": "GRF.MC",
+      "date": "2026-04-14",
+      "signal": "VENDE",
+      "prob_up": 0.2789,
+      "confidence": 0.442
+    },
+    {
+      "ticker": "IAG.MC",
+      "date": "2026-04-14",
+      "signal": "VENDE",
+      "prob_up": 0.3557,
+      "confidence": 0.289
+    },
+    {
+      "ticker": "IBE.MC",
+      "date": "2026-04-14",
+      "signal": "MANTIENE",
+      "prob_up": 0.5187,
+      "confidence": 0.037
+    },
+    {
+      "ticker": "ITX.MC",
+      "date": "2026-04-14",
+      "signal": "MANTIENE",
+      "prob_up": 0.4535,
+      "confidence": 0.093
+    },
+    {
+      "ticker": "REP.MC",
+      "date": "2026-04-14",
+      "signal": "COMPRA",
+      "prob_up": 0.6131,
+      "confidence": 0.226
+    },
+    {
+      "ticker": "SAN.MC",
+      "date": "2026-04-14",
+      "signal": "VENDE",
+      "prob_up": 0.3731,
+      "confidence": 0.254
+    },
+    {
+      "ticker": "TEF.MC",
+      "date": "2026-04-14",
+      "signal": "VENDE",
+      "prob_up": 0.3956,
+      "confidence": 0.209
+    },
+    {
+      "ticker": "^IBEX",
+      "date": "2026-04-14",
+      "signal": "COMPRA",
+      "prob_up": 0.6567,
+      "confidence": 0.313
+    }
+  ],
+  "updated": "2026-04-15 22:05:51.079949"
+}
